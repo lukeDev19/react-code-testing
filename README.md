@@ -1,7 +1,3 @@
-## Hilton Dev Assessment
-
-For this code assessment, we expect you to make the changes listed in the `Deliverables` sections and then email us the link to your codesandbox instance that has your changes. (As soon as you make a change and save it, it will fork this project and create a unique url for you).
-
 ## Setup
 
 You need to sign up for an OpenWeather API key. Instructions are here: https://openweathermap.org/appid
